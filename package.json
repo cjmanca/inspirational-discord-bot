@@ -1,0 +1,32 @@
+{
+  "name": "inspirational-discord-bot",
+  "author": "C.J. Manca",
+  "version": "1.0.0",
+  "description": "InspiroBot inspirational generator",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "express": "^4.17.0",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjmanca/inspirational-discord-bot"
+  },
+  "keywords": [
+    "node",
+    "inspirobot",
+    "discord"
+  ],
+  "license": "MIT"
+}

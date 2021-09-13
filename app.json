@@ -1,0 +1,6 @@
+{
+  "name": "Inspirational Discord Bot",
+  "description": "Pulls inspirational posts from inspirobot.me and posts in discord chat",
+  "repository": "https://github.com/cjmanca/inspirational-discord-bot",
+  "keywords": [ "discord", "bot", "meme" ]
+}
